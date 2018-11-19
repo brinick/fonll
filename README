@@ -187,7 +187,7 @@ or linked to the working directory.
 
 
 The program produces a number of internal files; they all have the form
-*.tmp. They can be safely removed.
+*.tmp, and can be safely removed.
 
 The other files produced are
 tag.out
